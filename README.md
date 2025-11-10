@@ -16,7 +16,7 @@ This repo contains assignment 8 submissions for Puneet Mishra, DA25C016
 | *Course* | DA5401 - Advanced Data Analytics |
 | *Assignment* | Assignment 8: Ensemble Learning for Complex Regression Modeling on Bike Sharing Data |
 | *Topic* | Ensemble learning |
-| *Submission Date* | 11 November 2025 |
+| *Submission Date* | 10 November 2025 |
 | *Documentation*  |  DA5401_Assignment8_DA25C016.ipynb
 | *Notebook Cells* | 50+ comprehensive cells with dynamic insights |
 
