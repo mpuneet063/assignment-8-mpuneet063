@@ -26,3 +26,5 @@ The analysis is divided into the following sections:</p>
         <li><b> Implementing Ensemble Methods </b>: Training and evaluating Bagging, Boosting, and Stacking models.</li>
         <li><b> Final Analysis </b>: Comparing the performance of all models and identifying the best one.</li>
     </ul>
+
+<strong>Note:</strong> View the notebook in VS Code for best experience.    
